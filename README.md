@@ -2,4 +2,4 @@
 
 Crawler Dcard Picture and download in C:\ImageSave
 
-try and enjoy it , Thank you.
+Try and enjoy it , Thank you.
